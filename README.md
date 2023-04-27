@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pita3012
-- 👀 I’m interested in  la investigacion y  el analisis de datos
-- 🌱 I’m currently learning  sobre la morfoficiopatologia humana 
+- 👀 I’m interested in  la investigacion y  el analisis de dato 
 - 💞️ I’m looking to collaborate on  proyects de  investigacion y analiss de datos 
 - 📫 me pueden contactar a traves de www.linkedin.com/in/javiera-sanchez-collao
 
