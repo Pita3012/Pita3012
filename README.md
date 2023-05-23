@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Pita3012
-- 👀 I’m interested in  la investigacion y  el analisis de dato 
-- 💞️ I’m looking to collaborate on  proyects de  investigacion y analiss de datos 
+- 👋💞️ Hi, I’m @Pita3012 Javiera Sanchez 
+- 👀 I’m interested in research and data analysis
 - 📫 me pueden contactar a traves de www.linkedin.com/in/javiera-sanchez-collao
 
 <!---
